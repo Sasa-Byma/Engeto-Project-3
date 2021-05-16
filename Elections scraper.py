@@ -100,4 +100,5 @@ while rightUrl == False:
     print("Processing ...")
     write_csv(*el_data((source(address))), csvfile)
     print(f"Done. The output is in  file {csvfile}.csv.")
+    
 
