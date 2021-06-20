@@ -11,4 +11,4 @@ Next you are asked for the name of csv file. Please enter just name without .csv
 
 Csv output file contains a header with each municipality code, municipality name, number of registered voters, accepted envelopes, valid votes and names of political parties. Each municipality numbers are on a separate line in an alphabetical order.
 
-An example of csv output for Nymburk county is to be found in the same directory.
+An example of csv output for Mělník county is to be found in the same directory.
